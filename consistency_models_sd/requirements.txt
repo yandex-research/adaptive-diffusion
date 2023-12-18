@@ -1,0 +1,18 @@
+diffusers==0.24.0
+accelerate==0.25.0
+clip @ git+https://github.com/openai/CLIP.git
+matplotlib==3.8.2
+numpy==1.26.2
+open-clip-torch>=2.20.0
+opencv-python==4.6.0.66
+pandas==2.1.4
+pillow==10.1.0
+timm==0.9.12
+tokenizers==0.15.0
+torch==2.0.1
+torchdata==0.6.1
+torchmetrics>=1.0.1
+torchvision==0.15.2
+tqdm>=4.65.0
+transformers==4.36.1
+scipy==1.11.4
